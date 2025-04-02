@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*": ["src/*"] // Fix: Correct relative path to src
+        }
+    },
+    "exclude": ["node_modules", "dist"] // Optional: Add to prevent indexing these folders
+}
