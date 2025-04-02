@@ -8,10 +8,10 @@ const ContactUs = () => {
 
             <div className="mt-6 text-left">
                 <h2 className="text-xl font-semibold text-gray-700">📍 Address</h2>
-                <p className="text-gray-600">123 ParcelPop St, Delivery City, DC 45678</p>
+                <p className="text-gray-600">Sonipat Delhi NCR</p>
 
                 <h2 className="text-xl font-semibold text-gray-700 mt-4">📞 Phone</h2>
-                <p className="text-gray-600">+1 234 567 890</p>
+                <p className="text-gray-600">+91 9332338373</p>
 
                 <h2 className="text-xl font-semibold text-gray-700 mt-4">📧 Email</h2>
                 <p className="text-gray-600">support@parcelpop.com</p>
