@@ -10,7 +10,7 @@ export default function Footer() {
                     <div className="flex flex-col gap-2">
                         <div className="flex items-center gap-2 mobile-lg:justify-center">
                             <FaPhoneAlt className="text-lg" />
-                            <span>+880 1608 505647</span>
+                            <span>+91 9332338373</span>
                         </div>
                         <div className="flex items-center gap-2 mobile-lg:justify-center">
                             <FaEnvelope className="text-lg" />
@@ -19,8 +19,8 @@ export default function Footer() {
                         <div className="flex items-center gap-2 mobile-lg:justify-center mobile-lg:text-center mobile-lg:px-4">
                             <FaMapMarkerAlt className="text-lg" />
                             <span>
-                                Level-3, Room No-408, Muktobangla Shopping Complex, Mirpur-1, Dhaka,
-                                Bangladesh
+                               Sonipat Delhi NCR
+                                India
                             </span>
                         </div>
                     </div>
